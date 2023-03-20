@@ -1,10 +1,17 @@
-
-
 .cabecalho
 { 
-    backgrou-color:
+    backgroud-color: black 
 }
+h1 { text-align: center;
 
+}
+h2 { 
+    background-color:rgb(233, 59, 59);
+}
+.imagem{ 
+    width: 20px;
+    background-image: -o-linear-gradient();
+}
 P { 
     font-size: 16px;
 }
@@ -12,5 +19,5 @@ P {
     font-size: 20px;    
 }
 .divisao{
-    background-color: aqua;
+    background-color: rgb(245, 42, 42) ;
 }
