@@ -4,19 +4,11 @@
     backgroud-color: black 
 }
 h1 { text-align: center;
-
-}
-h2 { 
-    background-color:rgb(233, 59, 59);
-}
-.imagem{ 
-    width: 20px;
-    background-image: -o-linear-gradient();
-}
-P { 
+@@ -16,8 +17,16 @@ P {
     font-size: 16px;
 }
 .paragrafo1 {
+    font-size: 20px;    
     font-size: 20px;
      .paragrafos {
         font-size: 16px;
