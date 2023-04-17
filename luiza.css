@@ -1,30 +1,34 @@
 .cabecalho
-{ 
-   background-color: black;
+{
+    background-color: rgb(218, 46, 46)
 }
-h1 { text-align: center;
-
+h1 {
+    text-align: center;
 }
-h2 { 
-    background-color:rgb(233, 59, 59);
+h2 {
+    background-color: rgba(255, 255, 255, 0.918);
 }
-.imagem{ 
+h3{
+    padding-left: 10%;
+}
+.imagem{
     width: 20px;
-    background-image: linear-gradient(purple)
+    background-image: linear-gradient(#ff4848);
 }
-
-P { 
-    font-size: 18px;
+p {
+    font-size: 20px
 }
 .paragrafo1 {
-    font-size: 20px;
-      } 
-     
-      .lista { 
-        display: inline-block;
-        margin: 0 16px;
-     }
+ font-size:30px;
+ padding-top: 5%;
 }
-.divisao{
-    background-color: aqua;
-    background-color: rgb(245, 42, 42) ;
+.paragrafos {
+    font-size: 16px;
+}
+.lista {
+    display: inline-block;
+    margin: 0 16px
+}
+footer{
+    background-color: black;
+}
