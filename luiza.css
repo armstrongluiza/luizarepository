@@ -1,30 +1,34 @@
-.cabecalho
-{ 
-   background-color: black;
+. cabecalho
+{
+    cor de fundo :  rgb ( 218 ,  46 ,  46 )
 }
-h1 { text-align: center;
-
+h1 {
+    alinhamento de texto : centro;
 }
-h2 { 
-    background-color:rgb(233, 59, 59);
+h2 {
+    cor de fundo :  rgba ( 255 ,  255 ,  255 ,  0,918 );
 }
-.imagem{ 
-    width: 20px;
-    background-image: linear-gradient(purple)
+h3 {
+    padding-esquerda :  10 % ;
 }
-
-P { 
-    font-size: 18px;
+. imagem {
+    largura :  10 px ;
+    background-image :  linear-gradient ( # ff4848 );
 }
-.paragrafo1 {
-    font-size: 20px;
-      } 
-     
-      .lista { 
-        display: inline-block;
-        margin: 0 16px;
-     }
+p {
+    tamanho da fonte :  20 px
 }
-.divisao{
-    background-color: aqua;
-    background-color: rgb(245, 42, 42) ;
+. parágrafo1 {
+ tamanho da fonte : 30 px ;
+ padding-top :  5 % ;
+}
+. parágrafos {
+    tamanho da fonte :  16 px ;
+}
+. { _
+    exibição : bloco em linha;
+    margem :  0  16 px
+}
+rodapé {
+    cor de fundo : preto;
+}
